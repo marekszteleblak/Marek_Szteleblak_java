@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">taskmanagerapp</string>
+    <string-array name="categories">
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Shopping</item>
+        <item>Other</item>
+    </string-array>
+</resources>
